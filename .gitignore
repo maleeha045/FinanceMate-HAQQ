@@ -1,0 +1,22 @@
+node_modules/
+
+# Artifacts
+build/
+bin/
+coverage/
+coverage.json
+typechain-types/
+artifacts/
+cache/
+docgen/
+flat/
+
+
+# IDEs
+.idea/
+.vscode/
+.env
+
+# NPM
+gas-report
+/bin/
